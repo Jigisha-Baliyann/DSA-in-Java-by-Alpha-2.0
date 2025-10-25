@@ -1,0 +1,84 @@
+1. HOLLOW RECTANGLE
+
+for n=4 the output should be :
+* * * *
+*     *
+*     *
+* * * *
+
+2. INVERTED & ROTATED HALF PYRAMID
+
+for n=4 the output should be :
+      *
+    * *
+  * * *
+* * * *
+
+3. INVERTED HALF PYRAMID WITH NUMBERS
+
+for n=5 the output should be :
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+4. FLOYD'S TRIANGLE PYRAMID
+
+for n=5 the output should be :
+ 1
+ 2  3
+ 4  5  6 
+ 7  8  9 10
+11 12 13 14 15
+
+5. 0-1 TRIANGLE
+
+for n=5 the output should be :
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+
+6. BUTTERFLY
+
+for n=4 the output should be :
+*             * 
+* *         * * 
+* * *     * * * 
+* * * * * * * * 
+* * * * * * * * 
+* * *     * * * 
+* *         * * 
+*             *
+
+7. SOLID RHOMBUS
+
+for n=5 the output should be :
+        * * * * *
+      * * * * * 
+    * * * * * 
+  * * * * *
+* * * * *
+
+8. HOLLOW RHOMBUS 
+
+for n=5 the output should be :
+        * * * * *
+      *       * 
+    *       * 
+  *       *
+* * * * *
+
+9. DIAMOND
+
+for n=4 the output should be :
+      *
+    * * * 
+  * * * * * 
+* * * * * * *
+* * * * * * *
+  * * * * *
+    * * *
+      *
